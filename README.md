@@ -2,6 +2,7 @@
 
 # Intelli KID Guardian
 <div align=center><img width="200" height="200" src="./pic/zhihu_logo.png"/></div>
+
 ## Introduction
 For the application of child monitoring, we use the intelligent hardware platform to collect and analyze the family environment data, and combine with the IOT application platform to realize visual data display and real-time video monitoring on the APP, and use artificial intelligence on this basis. The secondary development of intelligent technology realizes the accurate detection of children's status.
 
